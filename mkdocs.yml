@@ -3,6 +3,6 @@ site_url: https://www.ncr.com
 site_description: Technical Documentation and Release Notes for NCR Digital Ordering
 site_author: NCR
 
-theme: readthedocs
+theme: gitbook
 
 copyright: Copyright &copy; 2020 NCR Corporation. All rights reserved.
