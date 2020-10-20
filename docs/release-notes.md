@@ -1,8 +1,8 @@
 #Release Notes
 
-##Digital Ordering 1.5
+##Digital Ordering 1.5\
 October 15, 2020\
-What's New\
+What's New
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut fringilla purus. Maecenas at facilisis.
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut fringilla purus. Maecenas at facilisis.
 
