@@ -2,5 +2,5 @@
 
 NCR Digital Ordering is NCR's solution to enable your customers to purchase from you online.
 
-##Getting Started
-Here are some great resources that will help you hit the ground running...
+##Where do I start?
+Check out our [Getting Started guide](getting-started.md) for more information on how to begin.
