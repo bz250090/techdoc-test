@@ -4,6 +4,6 @@ site_description: Technical Documentation and Release Notes for NCR Digital Orde
 site_author: NCR
 
 theme:
-  name: gitbook
+  name: readthedocs
 
 copyright: Copyright &copy; 2020 NCR Corporation. All rights reserved.
